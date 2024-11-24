@@ -1,5 +1,3 @@
-import React from 'react'
-import PropTypes from 'prop-types'
 import { Outlet, useNavigation } from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
 import { Oval } from 'react-loader-spinner'
