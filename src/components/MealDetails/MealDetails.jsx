@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types'
 import { useLoaderData, useNavigate } from 'react-router-dom'
 import NewData from '../NewData/NewData'
 
